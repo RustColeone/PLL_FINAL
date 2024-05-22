@@ -1,4 +1,4 @@
-//Revision 2
+//Revision 6
 //NOTE
 // Default template for spectre
 // Note:
@@ -7,14 +7,14 @@
 //END_NOTE
 
 config VCO_tb;
-design PLL.VCO_tb:schematic;
+design PLL_FINAL.VCO_tb:schematic;
 liblist myLib;
 
 viewlist spectre, cmos_sch, \cmos.sch , schematic, veriloga, ahdl, pspice, dspf;
 stoplist spectre;
 
 
-cell PLL_FINAL.VCO binding :calibre;
+cell PLL_FINAL.VCO binding :schematic;
 
 
 endconfig
