@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jackiec
+HostName                       Eeapps01.seas.ucla.edu
+ProcessIdentifier              29157
+ProcessCreationTime_UTC        1716341660
+ProcessCreationTime_Readable   Tue May 21 18:34:20 2024 PDT
+AppIdentifier                  /w/apps3/Cadence/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       Not specified
+FilePathUsedToEditLock         /w/home.20/ee/grad/jackiec/Desktop/ee209bs/PLL_FINAL/VCO_DIVIDER_tb/config/expand.cfg
+TimeEditLocked                 Tue May 21 20:10:39 2024 PDT
