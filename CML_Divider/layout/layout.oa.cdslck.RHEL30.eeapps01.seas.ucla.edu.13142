@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Thu May 23 13:39:05 2024 PDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /w/home.20/ee/grad/jackiec/Desktop/ee209bs/PLL_FINAL/FULL_PLL/schematic/sch.oa.cdslck
-TimeEditLocked                 Thu May 23 13:39:46 2024 PDT
+FilePathUsedToEditLock         /w/home.20/ee/grad/jackiec/Desktop/ee209bs/PLL_FINAL/CML_Divider/layout/layout.oa.cdslck
+TimeEditLocked                 Thu May 23 13:47:55 2024 PDT

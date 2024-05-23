@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      jackiec
 HostName                       eeapps01.seas.ucla.edu
-ProcessIdentifier              12868
-ProcessCreationTime_UTC        1716410819
-ProcessCreationTime_Readable   Wed May 22 13:46:59 2024 PDT
+ProcessIdentifier              13142
+ProcessCreationTime_UTC        1716496745
+ProcessCreationTime_Readable   Thu May 23 13:39:05 2024 PDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /w/home.20/ee/grad/jackiec/Desktop/ee209bs/PLL_FINAL/ChargePump_LPF/layout/layout.oa.cdslck.dirlck
-TimeEditLocked                 Wed May 22 15:19:05 2024 PDT
+FilePathUsedToEditLock         /w/home.20/ee/grad/jackiec/Desktop/ee209bs/PLL_FINAL/DIVIDER/layout/layout.oa.cdslck
+TimeEditLocked                 Thu May 23 13:47:55 2024 PDT
