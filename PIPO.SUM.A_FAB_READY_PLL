@@ -1,0 +1,751 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.7-64b 12/16/2018 07:36 (sjfhw317) $
+          : sub-version  IC6.1.7-64b.500.23 
+Started at: 29-May-2024  21:24:57
+User Name : haoxian
+Host Name : eeapps01.seas.ucla.edu
+Directory : /w/home.05/ee/ugrad/haoxian/ee209bs
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+
+                       Individual Cell Statistics - Basic Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               Instance Array   Polygon  Rect   Path   PathSeg   Text   TextDisplay   Line   Dot   Arc   Donut   Ellipse 
+---------------------------------------------------------------------------------------------------------------------------------------
+S130/M2M3/layout                0        0       0        5      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        38     0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        270    41     0         0      39            0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__pad_esd_backup_layout/layout     1        0       1        0      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_ef_io__analog_minesd_pad_short_v2_s130_pads_scw_new/layout                                              1        0       0        22     0      0         10     0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        29     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        16     0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        18     0      0         0      0             0      0     0     0       0       
+PLL_FINAL/SA_RS_FlipFlop/layout 5        0       0        9      0      70        8      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        61     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        15     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        5      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__dfl1__example_55959141808681/layout                                                              0        0       0        17     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        5      0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        27     0      0         0      0             0      0     0     0       0       
+PLL_FINAL/ind_3turn_4n_w10_s3_r140/layout                       2        0       34       10     0      0         6      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        5      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__hvdfl1sd2__example_55959141808378/layout                                                         0        0       0        17     0      0         0      0             0      0     0     0       0       
+S130/PYL1/layout                0        0       0        24     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        134    0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808693/layout                                                         20       0       0        250    0      0         39     0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        183    29     0         0      27            0      0     0     0       0       
+S130/M4M5/layout                0        0       0        38     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        30     0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        116    0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        372    55     0         0      53            0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__gnd2gnd_strap/layout             1        0       1        202    0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__hvdfl1sd__example_55959141808700/layout                                                          0        0       0        23     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__hvdfl1sd2__example_55959141808559/layout                                                         0        0       0        23     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        24     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/test_poly_v2/layout                            0        0       0        49     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        5      0      0         0      0             0      0     0     0       0       
+PLL_FINAL/FULL_PLL/layout       3        0       0        32     0      25        15     0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808698/layout                                                         7        0       0        39     0      0         7      0             0      0     0     0       0       
+S130/cm3m4/layout               0        0       0        846    0      0         0      2             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        3      0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        56     11     0         0      23            0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808705/layout                                                         20       0       0        250    0      0         39     0             0      0     0     0       0       
+S130/cm3m4/layout               0        0       0        581    0      0         0      2             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        30     0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        34     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__tpl1__example_55959141808686/layout                                                              0        0       0        59     0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        198    0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        11     0      0         0      0             0      0     0     0       0       
+S130/pmos/layout                0        0       0        155    25     0         0      23            0      0     0     0       0       
+S130/L1M1/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        20     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__via_pol1__example_559591418083/layout                                                            0        0       0        5      0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        31     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        11     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        32     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        18     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__dfl1sd2__example_55959141808679/layout                                                           0        0       0        23     0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        21     6      0         0      8             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        30     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        24     0      0         0      0             0      0     0     0       0       
+S130/M4M5/layout                0        0       0        3      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__com_bus_hookup_s130_pads_scw/layout                                                              0        15      0        2415   0      0         60     0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        5      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__dftpl1s2__example_55959141808702/layout                                                          0        0       0        69     0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        96     17     0         0      15            0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__pfet_01v8__example_55959141808687/layout                                                         11       0       0        64     0      0         11     0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        13     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__dfl1__example_55959141808682/layout                                                              0        0       0        23     0      0         0      0             0      0     0     0       0       
+S130/pmos/layout                0        0       0        50     10     0         0      20            0      0     0     0       0       
+S130/L1M1/layout                0        0       0        27     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__com_bus_slice_s130_pads_scw/layout                                                               0        0       0        37     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        7      0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        20     6      0         0      8             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M4M5/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__genrivetdlring__example_559591418082_s130_pads_scw/layout                                        0        0       0        156    0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_ef_io__vssio_lvc_clamped_pad_s130_pads_scw/layout                                                       2        0       2        16063  0      0         61     0             0      0     0     0       0       
+PLL_FINAL/DFF_Counter/layout    4        0       0        0      0      72        7      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        36     0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        24     0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        270    41     0         0      39            0      0     0     0       0       
+S130/L1M1/layout                0        0       0        11     0      0         0      0             0      0     0     0       0       
+S130/cm4m5/layout               0        0       0        41     0      0         0      2             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        8      0      0         0      0             0      0     0     0       0       
+S130/M4M5/layout                0        0       0        11     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        44     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        29     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        27     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        17     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808697/layout                                                         2        0       0        9      0      0         2      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__via_pol1__example_5595914180839/layout                                                           0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        24     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808704/layout                                                         11       0       0        133    0      0         21     0             0      0     0     0       0       
+S130/M4M5/layout                0        0       0        18     0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        24     0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__top_power_lvc_wpad/layout        413      0       114      55460  0      0         72     0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__overlay_vddio_lvc/layout         1        0       2        9048   0      0         60     0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_ef_io__vssio_lvc_clamped_pad_w_endcap_s130_pads_scw_new/layout                                          2        0       0        0      0      0         0      0             0      0     0     0       0       
+S130/cm4m5/layout               0        0       0        9      0      0         0      2             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        38     0      0         0      0             0      0     0     0       0       
+S130/cm4m5/layout               0        0       0        21     0      0         0      2             0      0     0     0       0       
+S130/nmos/layout                0        0       0        372    55     0         0      53            0      0     0     0       0       
+S130/L1M1/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+PLL_FINAL/RSLatch/layout        3        0       0        8      0      91        11     0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+PLL_FINAL/NOR/layout            3        0       0        1      0      74        6      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__padplhp__example_559591418080_backup_layout/layout                                               2        0       6        1      0      0         3      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__dfl1sd2__example_55959141808666/layout                                                           0        0       0        24     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        7      0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        102    0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        8      0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        638    32     0         0      86            0      0     0     0       0       
+S130/L1M1/layout                0        0       0        35     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        9      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        8      0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        11     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__genrivetdlring__example_559591418082_backup_layout/layout                                        0        0       0        156    0      0         0      0             0      0     0     0       0       
+S130/rpoly_hp2K/layout          0        0       0        93     3      0         0      3             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        23     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        14     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_ef_io__minesd_pad_and_pg_v2_new/layout  3        0       93       22395  0      0         5      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        26     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        3      0      0         0      0             0      0     0     0       0       
+S130/cm4m5/layout               0        0       0        1941   0      0         0      2             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        7      0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+PLL_FINAL/ChargePump_LPF/layout 14       0       0        121    1      104       9      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        5      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        41     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__hvdfl1sd__example_5595914180851/layout                                                           0        0       0        17     0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        7      0      0         0      0             0      0     0     0       0       
+PLL_FINAL/VCO/layout            7        0       0        73     0      2         7      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        68     0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        91     16     0         0      38            0      0     0     0       0       
+S130/M2M3/layout                0        0       0        11     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/test_poly_v3/layout                            2        0       0        26     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__overlay_vssio_lvc/layout         1        0       0        6368   0      0         60     0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        20     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        16     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        134    0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        114    15     0         0      13            0      0     0     0       0       
+s130_pads_scw_v2/sky130_ef_io__vddio_lvc_clamped_pad_s130_pads_scw/layout                                                       2        0       1        5288   0      0         66     0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        35     8      0         0      14            0      0     0     0       0       
+S130/L1M1/layout                0        0       0        11     0      0         0      0             0      0     0     0       0       
+PLL_FINAL/DIVIDER/layout        6        0       0        63     0      0         9      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808696/layout                                                         2        0       0        11     0      0         2      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        5      0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        8      0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        105    18     0         0      44            0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__gnd2gnd_diff/layout              1        0       0        2      0      0         0      0             0      0     0     0       0       
+S130/cm3m4/layout               0        0       0        2606   0      0         0      2             0      0     0     0       0       
+S130/pmos/layout                0        0       0        106    18     0         0      44            0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808703/layout                                                         13       0       0        159    0      0         25     0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        47     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        9      0      0         0      0             0      0     0     0       0       
+S130/pmos/layout                0        0       0        64     12     0         0      26            0      0     0     0       0       
+S130/M2M3/layout                0        0       0        32     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        12     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        15     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        72     0      0         0      0             0      0     0     0       0       
+S130/cm4m5/layout               0        0       0        41     0      0         0      2             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__gnd2gnd_tap/layout               1        0       0        2      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__res_bent_po__example_55959141808690/layout                                                       2        0       0        23     0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        59     15     0         0      27            0      0     0     0       0       
+S130/pmos/layout                0        0       0        43     9      0         0      17            0      0     0     0       0       
+S130/M1M2/layout                0        0       0        146    0      0         0      0             0      0     0     0       0       
+S130/M4M5/layout                0        0       0        27     0      0         0      0             0      0     0     0       0       
+S130/pmos/layout                0        0       0        111    19     0         0      17            0      0     0     0       0       
+S130/M2M3/layout                0        0       0        38     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__com_bus_hookup_backup_layout/layout                                                              0        15      0        2415   0      0         60     0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        146    0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+PLL_FINAL/VCO_NIND/layout       9        0       0        308    0      0         0      5             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__com_bus_slice_backup_layout/layout                                                               0        0       0        37     0      0         0      0             0      0     0     0       0       
+S130/PYL1/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        23     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_ef_io__com_pg_esd_v2_new/layout         1        0       4        219    0      0         6      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        62     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        7      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__gendlring__example_559591418081_backup_layout/layout                                             0        0       0        0      0      0         0      0             0      0     0     0       0       
+S130/pmos/layout                0        0       0        176    28     0         0      74            0      0     0     0       0       
+S130/M1M2/layout                0        0       0        26     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        18     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        92     0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        133    22     0         0      56            0      0     0     0       0       
+S130/M1M2/layout                0        0       0        19     0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        38     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        190    0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        96     17     0         0      15            0      0     0     0       0       
+S130/M3M4/layout                0        0       0        83     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__top_ground_lvc_wpad/layout       413      0       113      55765  0      0         72     0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        68     0      0         0      0             0      0     0     0       0       
+S130/rpoly_hp2K/layout          0        0       0        96     3      0         0      3             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        92     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__padplhp__example_559591418080_s130_pads_scw/layout                                               2        0       6        1      0      0         3      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        92     0      0         0      0             0      0     0     0       0       
+PLL_FINAL/DFF/layout            24       0       0        26     0      492       7      0             0      0     0     0       0       
+S130/PYL1/layout                0        0       0        39     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808695/layout                                                         11       0       0        133    0      0         21     0             0      0     0     0       0       
+PLL_FINAL/StrongArmLatch/layout 7        0       0        5      0      205       9      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808701/layout                                                         19       0       0        237    0      0         37     0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        14     0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        190    30     0         0      28            0      0     0     0       0       
+S130/M3M4/layout                0        0       0        102    0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        13     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        3      0      0         0      0             0      0     0     0       0       
+PLL_FINAL/A_FAB_READY_PLL/layout                                25       0       0        75     0      231       0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        17     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        76     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        62     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        5      0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        20     6      0         0      8             0      0     0     0       0       
+PLL_FINAL/Inverter/layout       2        0       0        2      0      27        4      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        7      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/test_poly_v1/layout                            0        0       0        42     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+PLL_FINAL/PhaseDetector/layout  6        0       0        22     0      47        8      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_ef_io__esd_pdiode_11v0_single/layout    0        0       12       1920   0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        92     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__gnd2gnd_sub_dnwl/layout          6        2       3        11     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__dftpl1s2__example_55959141808694/layout                                                          0        0       0        51     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        110    0      0         0      0             0      0     0     0       0       
+PLL_FINAL/DIVIDER_PFD/layout    3        0       0        7      0      32        10     0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        9      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__via_l1m1__example_55959141808684/layout                                                          0        0       0        43     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        33     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        10     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        5      0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        5      0      0         0      0             0      0     0     0       0       
+S130/rmet/layout                0        0       0        4      0      0         0      2             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        32     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        116    0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        31     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        3      0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        14     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__com_busses_esd/layout            2        0       0        0      0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        83     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__gendlring__example_559591418081_s130_pads_scw/layout                                             0        0       0        0      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        5      0      0         0      0             0      0     0     0       0       
+S130/rpoly/layout               0        0       0        60     0      0         0      2             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        7      0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        20     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        74     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        15     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        3      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        3      0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        77     14     0         0      32            0      0     0     0       0       
+PLL_FINAL/VCO_DIVIDER/layout    2        0       0        19     0      0         11     0             0      0     0     0       0       
+S130/pmos/layout                0        0       0        57     12     0         0      26            0      0     0     0       0       
+S130/nmos/layout                0        0       0        28     7      0         0      11            0      0     0     0       0       
+S130/rpoly/layout               0        0       0        18     0      0         0      2             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        62     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        15     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        51     0      0         0      0             0      0     0     0       0       
+S130/cm4m5/layout               0        0       0        174    0      0         0      2             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        28     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        39     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        3      0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        14     0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        50     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_ef_io__esd_ndiode_11v0_single/layout    0        0       22       5234   0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__res_bent_po__example_55959141808691/layout                                                       2        0       0        55     0      0         0      0             0      0     0     0       0       
+PLL_FINAL/pad_frame_scw_new2_modified/layout                    4        4       4        36     0      0         24     0             0      0     0     0       0       
+S130/M4M5/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/test_poly_v2_w_contact/layout                  3        0       0        0      0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        20     0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        326    0      0         0      0             0      0     0     0       0       
+S130/nmos/layout                0        0       0        183    29     0         0      27            0      0     0     0       0       
+S130/L1M1/layout                0        0       0        7      0      0         0      0             0      0     0     0       0       
+PLL_FINAL/SelfBiasInverter/layout                               4        0       0        27     0      21        0      4             0      0     0     0       0       
+S130/cm3m4/layout               0        0       0        6729   0      0         0      2             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__via_l1m1__example_55959141808683/layout                                                          0        0       0        89     0      0         0      0             0      0     0     0       0       
+S130/pmos/layout                0        0       0        36     8      0         0      14            0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808699/layout                                                         6        0       0        33     0      0         6      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        7      0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        7      0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        3      0      0         0      0             0      0     0     0       0       
+S130/M4M5/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        34     0      0         0      0             0      0     0     0       0       
+PLL_FINAL/CML_Divider/layout    18       0       0        352    0      2         0      1             0      0     0     0       0       
+S130/rmet/layout                0        0       0        4      0      0         0      2             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        18     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__pad_esd_s130_pads_scw/layout     1        0       1        0      0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        31     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_io__gnd2gnd_120x2_lv_isosub/layout   2        0       1        16     0      0         11     0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_fd_pr__tpl1__example_55959141808685/layout                                                              0        0       0        50     0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        18     0      0         0      0             0      0     0     0       0       
+S130/cm4m5/layout               0        0       0        3849   0      0         0      2             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M2M3/layout                0        0       0        12     0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_ef_io__vddio_lvc_clamped_pad_w_endcap_s130_pads_scw_new/layout                                          2        0       0        0      0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        46     0      0         0      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        4      0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+S130/rmet/layout                0        0       0        4      0      0         0      2             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+s130_pads_scw_v2/sky130_ef_io__pad_bus_endcap_new/layout        0        0       0        194    0      0         2      0             0      0     0     0       0       
+S130/L1M1/layout                0        0       0        7      0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        20     0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+S130/M3M4/layout                0        0       0        7      0      0         0      0             0      0     0     0       0       
+S130/M1M2/layout                0        0       0        6      0      0         0      0             0      0     0     0       0       
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Individual Cell Statistics - Advanced Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               PRBdy    OtherBdy   AreaBlkg   LayerBlkg  AreaHalo   Row   Marker   CustVia   StdVia    CdsGenVia
+---------------------------------------------------------------------------------------------------------------------------------------
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__pad_esd_backup_layout/layout     0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_ef_io__analog_minesd_pad_short_v2_s130_pads_scw_new/layout                                              0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/SA_RS_FlipFlop/layout 0        0          0          0          0          0     0        0         31        0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__dfl1__example_55959141808681/layout                                                              0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/ind_3turn_4n_w10_s3_r140/layout                       0        0          0          0          0          0     0        0         6         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__hvdfl1sd2__example_55959141808378/layout                                                         0        0          0          0          0          0     0        0         0         0        
+S130/PYL1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808693/layout                                                         0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M4M5/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__gnd2gnd_strap/layout             0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__hvdfl1sd__example_55959141808700/layout                                                          0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__hvdfl1sd2__example_55959141808559/layout                                                         0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/test_poly_v2/layout                            0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/FULL_PLL/layout       0        0          0          0          0          0     0        0         36        0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808698/layout                                                         0        0          0          0          0          0     0        0         0         0        
+S130/cm3m4/layout               0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808705/layout                                                         0        0          0          0          0          0     0        0         0         0        
+S130/cm3m4/layout               0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__tpl1__example_55959141808686/layout                                                              0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/pmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__via_pol1__example_559591418083/layout                                                            0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__dfl1sd2__example_55959141808679/layout                                                           0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M4M5/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__com_bus_hookup_s130_pads_scw/layout                                                              0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__dftpl1s2__example_55959141808702/layout                                                          0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__pfet_01v8__example_55959141808687/layout                                                         0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__dfl1__example_55959141808682/layout                                                              0        0          0          0          0          0     0        0         0         0        
+S130/pmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__com_bus_slice_s130_pads_scw/layout                                                               0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M4M5/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__genrivetdlring__example_559591418082_s130_pads_scw/layout                                        0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_ef_io__vssio_lvc_clamped_pad_s130_pads_scw/layout                                                       0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/DFF_Counter/layout    0        0          0          0          0          0     0        0         12        0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/cm4m5/layout               0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M4M5/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808697/layout                                                         0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__via_pol1__example_5595914180839/layout                                                           0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808704/layout                                                         0        0          0          0          0          0     0        0         0         0        
+S130/M4M5/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__top_power_lvc_wpad/layout        0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__overlay_vddio_lvc/layout         0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_ef_io__vssio_lvc_clamped_pad_w_endcap_s130_pads_scw_new/layout                                          0        0          0          0          0          0     0        0         0         0        
+S130/cm4m5/layout               0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/cm4m5/layout               0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/RSLatch/layout        0        0          0          0          0          0     0        0         31        0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/NOR/layout            0        0          0          0          0          0     0        0         26        0        
+s130_pads_scw_v2/sky130_fd_pr__padplhp__example_559591418080_backup_layout/layout                                               0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__dfl1sd2__example_55959141808666/layout                                                           0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__genrivetdlring__example_559591418082_backup_layout/layout                                        0        0          0          0          0          0     0        0         0         0        
+S130/rpoly_hp2K/layout          0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_ef_io__minesd_pad_and_pg_v2_new/layout  0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/cm4m5/layout               0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/ChargePump_LPF/layout 0        0          0          0          0          0     0        0         130       0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__hvdfl1sd__example_5595914180851/layout                                                           0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/VCO/layout            0        0          0          0          0          0     0        0         42        0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/test_poly_v3/layout                            0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__overlay_vssio_lvc/layout         0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_ef_io__vddio_lvc_clamped_pad_s130_pads_scw/layout                                                       0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/DIVIDER/layout        0        0          0          0          0          0     0        0         55        0        
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808696/layout                                                         0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__gnd2gnd_diff/layout              0        0          0          0          0          0     0        0         0         0        
+S130/cm3m4/layout               0        0          0          0          0          0     0        0         0         0        
+S130/pmos/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808703/layout                                                         0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/pmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/cm4m5/layout               0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__gnd2gnd_tap/layout               0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__res_bent_po__example_55959141808690/layout                                                       0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/pmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M4M5/layout                0        0          0          0          0          0     0        0         0         0        
+S130/pmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__com_bus_hookup_backup_layout/layout                                                              0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/VCO_NIND/layout       0        0          0          0          0          0     0        0         86        0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__com_bus_slice_backup_layout/layout                                                               0        0          0          0          0          0     0        0         0         0        
+S130/PYL1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_ef_io__com_pg_esd_v2_new/layout         0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__gendlring__example_559591418081_backup_layout/layout                                             0        0          0          0          0          0     0        0         0         0        
+S130/pmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__top_ground_lvc_wpad/layout       0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/rpoly_hp2K/layout          0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__padplhp__example_559591418080_s130_pads_scw/layout                                               0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/DFF/layout            0        0          0          0          0          0     0        0         235       0        
+S130/PYL1/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808695/layout                                                         0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/StrongArmLatch/layout 0        0          0          0          0          0     0        0         78        0        
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808701/layout                                                         0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/A_FAB_READY_PLL/layout                                0        0          0          0          0          0     0        0         169       0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/Inverter/layout       0        0          0          0          0          0     0        0         14        0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/test_poly_v1/layout                            0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/PhaseDetector/layout  0        0          0          0          0          0     0        0         10        0        
+s130_pads_scw_v2/sky130_ef_io__esd_pdiode_11v0_single/layout    0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__gnd2gnd_sub_dnwl/layout          0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__dftpl1s2__example_55959141808694/layout                                                          0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/DIVIDER_PFD/layout    0        0          0          0          0          0     0        0         5         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__via_l1m1__example_55959141808684/layout                                                          0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/rmet/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__com_busses_esd/layout            0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__gendlring__example_559591418081_s130_pads_scw/layout                                             0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/rpoly/layout               0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/VCO_DIVIDER/layout    0        0          0          0          0          0     0        0         6         0        
+S130/pmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/rpoly/layout               0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/cm4m5/layout               0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_ef_io__esd_ndiode_11v0_single/layout    0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__res_bent_po__example_55959141808691/layout                                                       0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/pad_frame_scw_new2_modified/layout                    0        0          0          0          0          0     0        0         0         0        
+S130/M4M5/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/test_poly_v2_w_contact/layout                  0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/nmos/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/SelfBiasInverter/layout                               0        0          0          0          0          0     0        0         25        0        
+S130/cm3m4/layout               0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__via_l1m1__example_55959141808683/layout                                                          0        0          0          0          0          0     0        0         0         0        
+S130/pmos/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__nfet_01v8__example_55959141808699/layout                                                         0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M4M5/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+PLL_FINAL/CML_Divider/layout    0        0          0          0          0          0     0        0         336       0        
+S130/rmet/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__pad_esd_s130_pads_scw/layout     0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_io__gnd2gnd_120x2_lv_isosub/layout   0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_fd_pr__tpl1__example_55959141808685/layout                                                              0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/cm4m5/layout               0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M2M3/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_ef_io__vddio_lvc_clamped_pad_w_endcap_s130_pads_scw_new/layout                                          0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/rmet/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+s130_pads_scw_v2/sky130_ef_io__pad_bus_endcap_new/layout        0        0          0          0          0          0     0        0         0         0        
+S130/L1M1/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M3M4/layout                0        0          0          0          0          0     0        0         0         0        
+S130/M1M2/layout                0        0          0          0          0          0     0        0         0         0        
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Statistics of Layers 
+---------------------------------------------------------------------------------------------------------------------------------------
+Cadence         Cadence         Stream  Stream   
+Layer           Purpose         Layer   Datatype  Polygon  Rect     Path     Text     TextDisplay   Line Dot Arc Donut Ellipse Pathseg
+---------------------------------------------------------------------------------------------------------------------------------------
+met1            label           68      5         0        0        0        66       14            0    0   0   0     0      0      
+poly            label           66      5         0        0        0        15       358           0    0   0   0     0      0      
+via3            drawing         70      44        0        42016    0        0        0             0    0   0   0     0      0      
+capm            drawing         89      44        0        4        0        0        0             0    0   0   0     0      0      
+poly            drawing         66      20        0        2321     0        0        0             0    0   0   0     0      532    
+met2            pin             69      16        0        13       0        0        0             0    0   0   0     0      0      
+diff            drawing         65      20        17       612      34       0        0             0    0   0   0     0      0      
+psdm            drawing         94      20        5        107      25       0        0             0    0   0   0     0      0      
+met4            drawing         71      20        16       461      0        0        0             0    0   0   0     0      92     
+via1            drawing         68      44        0        27770    0        0        0             0    0   0   0     0      0      
+poly            res             66      13        0        94       0        0        0             0    0   0   0     0      0      
+met4            label           71      5         0        8        0        322      11            0    0   0   0     0      0      
+prBoundary      boundary        235     4         0        4        0        0        0             0    0   0   0     0      0      
+licon           drawing         66      44        0        36307    0        0        0             0    0   0   0     0      0      
+pad             drawing         76      20        6        3        0        0        0             0    0   0   0     0      0      
+poly            pin             66      16        0        358      0        0        0             0    0   0   0     0      0      
+met3            drawing         70      20        33       450      0        1        0             0    0   0   0     0      19     
+urpm            drawing         79      20        0        2        0        0        0             0    0   0   0     0      0      
+met1            drawing         68      20        189      2902     0        0        0             0    0   0   0     0      570    
+via4            drawing         71      44        0        11471    0        0        0             0    0   0   0     0      0      
+areaid          diode           81      23        0        3        0        0        0             0    0   0   0     0      0      
+met3            label           70      5         0        0        0        18       4             0    0   0   0     0      0      
+diff            pin             65      16        0        523      0        0        0             0    0   0   0     0      0      
+diff            label           65      6         0        0        0        1        523           0    0   0   0     0      0      
+npc             drawing         95      20        0        100      0        0        0             0    0   0   0     0      0      
+met5            drawing         72      20        40       179      0        2        0             0    0   0   0     0      101    
+areaid          padLength       81      67        0        2        0        0        0             0    0   0   0     0      0      
+areaid          esd             81      19        0        1        0        0        0             0    0   0   0     0      0      
+dnwell          drawing         64      18        6        7        0        0        0             0    0   0   0     0      0      
+v5              drawing         75      20        0        34       0        0        0             0    0   0   0     0      0      
+nwell           label           64      5         0        0        0        1        0             0    0   0   0     0      0      
+nsdm            drawing         93      44        12       171      9        0        0             0    0   0   0     0      0      
+li              drawing         67      20        38       2111     570      0        0             0    0   0   0     0      18     
+via2            drawing         69      44        0        30451    0        0        0             0    0   0   0     0      0      
+li              label           67      5         0        0        0        3        46            0    0   0   0     0      0      
+met3            pin             70      16        0        20       0        0        0             0    0   0   0     0      0      
+met5            pin             72      16        0        241      0        0        0             0    0   0   0     0      0      
+cap2m           drawing         97      44        0        7        0        0        0             0    0   0   0     0      0      
+li              pin             67      16        0        48       0        0        0             0    0   0   0     0      0      
+met1            pin             68      16        0        41       0        0        0             0    0   0   0     0      0      
+met5            res             72      13        0        3        0        0        0             0    0   0   0     0      0      
+hvntm           drawing         125     20        0        1        0        0        0             0    0   0   0     0      0      
+thkox           drawing         75      21        0        34       0        0        0             0    0   0   0     0      0      
+met2            label           69      5         0        0        0        30       1             0    0   0   0     0      0      
+met5            label           72      5         0        2        0        227      16            0    0   0   0     0      0      
+nwell           drawing         64      20        12       30       0        0        0             0    0   0   0     0      0      
+met2            drawing         69      20        46       1170     0        0        0             0    0   0   0     0      163    
+text            drawing         83      44        0        0        0        226      0             0    0   0   0     0      0      
+mcon            drawing         67      44        0        52970    0        0        0             0    0   0   0     0      0      
+met4            pin             71      16        0        320      0        0        0             0    0   0   0     0      0      
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Summary of Objects Translated:
+	Scalar Instances:		1142
+	Array Instances:		36
+	Polygons:			420
+	Paths:				638
+	Rectangles:			213372
+	Lines:				0
+	Arcs:				0
+	Donuts:				0
+	Dots:				0
+	Ellipses:			0
+	Boundaries:			0
+	Area Blockages:			0
+	Layer Blockages:		0
+	Area Halos:			0
+	Markers:			0
+	Rows:				0
+	Standard Vias:			1333
+	Custom Vias:			0
+	CdsGen Vias:			0
+	Pathsegs:			1495
+	Text:				912
+	TextDisplay:		973
+	Cells:				320
+Design Libraries: 
+
+DEFINE PLL_FINAL	/w/home.05/ee/ugrad/haoxian/ee209bs/PLL_FINAL
+DEFINE s130_pads_scw_v2	/w/home.05/ee/ugrad/haoxian/ee209bs/s130_pads_scw_v2
+DEFINE S130	/w/apps2/public.2/tech/cadence/90nm/gpdk090_v4.6/libs.oa22/V2.1.302/LIBS/S130
